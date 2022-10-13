@@ -7,7 +7,7 @@ public class Main {
 
         String quote = QuoteGenerator.getQuote();
 
-        System.out.println("prerełka mądrości");
+        System.out.println("perełka mądrości");
         System.out.println(quote);
         System.out.println("                                                    ---Kanye West");
 
