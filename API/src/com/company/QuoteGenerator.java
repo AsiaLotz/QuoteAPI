@@ -5,6 +5,7 @@ import java.net.http.*;
 
 public class QuoteGenerator {
 
+
     public static String getQuote() {
         try {
 
